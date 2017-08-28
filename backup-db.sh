@@ -1,6 +1,6 @@
 #!/bin/bash
 USER="root"
-PASS='ADjoft#$qewfod@'
+PASS=''
 DATEMOD=$(date +"%Y-%M-%d_%H%M%S")
 DBNAME="goshowag_ags"
 HOST="localhost"
